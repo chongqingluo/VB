@@ -23,7 +23,7 @@ public class Article {
     private String cateName;
     private List<Tags> tags;
     private String stateStr;
-
+    //及
     public String getStateStr() {
         return stateStr;
     }
